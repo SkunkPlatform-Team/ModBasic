@@ -1,4 +1,4 @@
-# ModBasic
+# ModBasic v1.0.0
 
 `ModBasic` is a simple module script for managing player actions in a game. It provides functions to kick, freeze, and unfreeze players. These functions can be used to control player behavior within the game environment.
 
